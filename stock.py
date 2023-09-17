@@ -2,6 +2,8 @@ import yfinance as yf
 import tweepy
 
 
+#Keys and tokens are not shown for security reasons. With these users can gain access to my twitter.
+
 auth = tweepy.OAuthHandler(api_key, api_key_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
