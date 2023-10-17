@@ -3,5 +3,5 @@ I've created a Twitter bot that uses data and automation to help investors make 
 
 The primary goal of this Twitter bot is to focus on identifying the sectors within the S&P 500 that are experiencing notable growth. This will hopefully empower investors with the knowledge and awareness needed to make more informed investment decisions.
 
-#Check it out here:
-https://twitter.com/SANDP_500_Bot
+# Check it out here:
+ https://twitter.com/SANDP_500_Bot
